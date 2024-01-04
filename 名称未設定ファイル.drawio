@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T10:29:53.230Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="iYairFwJtLLwa4eSU9_7" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T10:38:18.193Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="Rzspme0y42VJfChc93bh" version="22.1.16" type="github">
   <diagram name="ページ1" id="QqLwSLqvl7rIlfeu2B-Z">
-    <mxGraphModel dx="936" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1176" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,8 +16,8 @@
         <mxCell id="ANDY_AdEw9fYnEY0-3U3-6" value="ウェルカム画面" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="220" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ANDY_AdEw9fYnEY0-3U3-13" value="起動" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="230" width="110" height="60" as="geometry" />
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-13" value="起動" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="20" y="230" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ANDY_AdEw9fYnEY0-3U3-15" value="ウェルカム画面起動" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="140" width="120" height="60" as="geometry" />
@@ -46,6 +46,9 @@
         <mxCell id="ANDY_AdEw9fYnEY0-3U3-22" value="アカウント作成" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ANDY_AdEw9fYnEY0-3U3-24" target="ANDY_AdEw9fYnEY0-3U3-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ANDY_AdEw9fYnEY0-3U3-24" value="ログイン" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="140" width="120" height="60" as="geometry" />
         </mxCell>
@@ -55,8 +58,55 @@
             <mxPoint x="630" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ANDY_AdEw9fYnEY0-3U3-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ANDY_AdEw9fYnEY0-3U3-28" target="ANDY_AdEw9fYnEY0-3U3-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-28" value="ホームページ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-56" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="480" y="-40" width="760.5" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-38" value="Google&amp;nbsp;&lt;br&gt;or&lt;br&gt;email-pass" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="ANDY_AdEw9fYnEY0-3U3-56">
+          <mxGeometry x="160" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-40" value="Google認証" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ANDY_AdEw9fYnEY0-3U3-56">
+          <mxGeometry x="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ANDY_AdEw9fYnEY0-3U3-56" source="ANDY_AdEw9fYnEY0-3U3-38" target="ANDY_AdEw9fYnEY0-3U3-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-44" value="Email-Pass認証" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="ANDY_AdEw9fYnEY0-3U3-56">
+          <mxGeometry x="320" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ANDY_AdEw9fYnEY0-3U3-56" source="ANDY_AdEw9fYnEY0-3U3-38" target="ANDY_AdEw9fYnEY0-3U3-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-46" value="メール送信本人確認" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="ANDY_AdEw9fYnEY0-3U3-56">
+          <mxGeometry x="480" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ANDY_AdEw9fYnEY0-3U3-56" source="ANDY_AdEw9fYnEY0-3U3-44" target="ANDY_AdEw9fYnEY0-3U3-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-51" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;アカウント作成&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ANDY_AdEw9fYnEY0-3U3-56">
+          <mxGeometry y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ANDY_AdEw9fYnEY0-3U3-56" source="ANDY_AdEw9fYnEY0-3U3-51" target="ANDY_AdEw9fYnEY0-3U3-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="130" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-52" value="アカウント作成完了" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="ANDY_AdEw9fYnEY0-3U3-56">
+          <mxGeometry x="640.5" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ANDY_AdEw9fYnEY0-3U3-56" source="ANDY_AdEw9fYnEY0-3U3-40" target="ANDY_AdEw9fYnEY0-3U3-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ANDY_AdEw9fYnEY0-3U3-56" source="ANDY_AdEw9fYnEY0-3U3-46" target="ANDY_AdEw9fYnEY0-3U3-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T10:38:18.193Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="Rzspme0y42VJfChc93bh" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T13:41:47.898Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="ZQawsT6OOtMxd2wWGMxJ" version="22.1.16" type="github">
   <diagram name="ページ1" id="QqLwSLqvl7rIlfeu2B-Z">
-    <mxGraphModel dx="1176" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1763" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,6 +42,9 @@
         </mxCell>
         <mxCell id="ANDY_AdEw9fYnEY0-3U3-20" value="アカウント作成" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="485" y="220" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ANDY_AdEw9fYnEY0-3U3-22" target="ANDY_AdEw9fYnEY0-3U3-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ANDY_AdEw9fYnEY0-3U3-22" value="アカウント作成" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="140" width="120" height="60" as="geometry" />
@@ -99,7 +102,7 @@
             <mxPoint x="120" y="130" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ANDY_AdEw9fYnEY0-3U3-52" value="アカウント作成完了" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="ANDY_AdEw9fYnEY0-3U3-56">
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-52" value="アカウント作成完了" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ANDY_AdEw9fYnEY0-3U3-56">
           <mxGeometry x="640.5" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ANDY_AdEw9fYnEY0-3U3-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ANDY_AdEw9fYnEY0-3U3-56" source="ANDY_AdEw9fYnEY0-3U3-40" target="ANDY_AdEw9fYnEY0-3U3-52">
@@ -107,6 +110,15 @@
         </mxCell>
         <mxCell id="ANDY_AdEw9fYnEY0-3U3-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ANDY_AdEw9fYnEY0-3U3-56" source="ANDY_AdEw9fYnEY0-3U3-46" target="ANDY_AdEw9fYnEY0-3U3-52">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-58" value="フローチャート&lt;br&gt;開始/終了" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-59" value="作業完了" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-60" value="作業中" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

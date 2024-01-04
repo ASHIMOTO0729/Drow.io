@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T10:20:27.858Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" version="22.1.16" etag="HSjoQWVKbg1mvU2y4IyV" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T10:21:09.720Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="XI-UeEwIKHycrB24bWZr" version="22.1.16" type="github">
   <diagram name="ページ1" id="QqLwSLqvl7rIlfeu2B-Z">
-    <mxGraphModel>
+    <mxGraphModel dx="936" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ANDY_AdEw9fYnEY0-3U3-1" target="ANDY_AdEw9fYnEY0-3U3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-1" value="アプリ起動" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

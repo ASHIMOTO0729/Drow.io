@@ -1,17 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T10:21:09.720Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="XI-UeEwIKHycrB24bWZr" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T10:29:53.230Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="iYairFwJtLLwa4eSU9_7" version="22.1.16" type="github">
   <diagram name="ページ1" id="QqLwSLqvl7rIlfeu2B-Z">
     <mxGraphModel dx="936" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ANDY_AdEw9fYnEY0-3U3-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ANDY_AdEw9fYnEY0-3U3-1" target="ANDY_AdEw9fYnEY0-3U3-2">
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ANDY_AdEw9fYnEY0-3U3-6" target="ANDY_AdEw9fYnEY0-3U3-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ANDY_AdEw9fYnEY0-3U3-1" value="アプリ起動" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ANDY_AdEw9fYnEY0-3U3-6" target="ANDY_AdEw9fYnEY0-3U3-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ANDY_AdEw9fYnEY0-3U3-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ANDY_AdEw9fYnEY0-3U3-6" target="ANDY_AdEw9fYnEY0-3U3-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-6" value="ウェルカム画面" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="220" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-13" value="起動" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="230" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-15" value="ウェルカム画面起動" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ANDY_AdEw9fYnEY0-3U3-17" target="ANDY_AdEw9fYnEY0-3U3-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-17" value="ログイン" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ANDY_AdEw9fYnEY0-3U3-15" target="ANDY_AdEw9fYnEY0-3U3-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="440" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ANDY_AdEw9fYnEY0-3U3-20" target="ANDY_AdEw9fYnEY0-3U3-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ANDY_AdEw9fYnEY0-3U3-20" target="ANDY_AdEw9fYnEY0-3U3-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-20" value="アカウント作成" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="485" y="220" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-22" value="アカウント作成" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-24" value="ログイン" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ANDY_AdEw9fYnEY0-3U3-22" target="ANDY_AdEw9fYnEY0-3U3-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="200" as="sourcePoint" />
+            <mxPoint x="630" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ANDY_AdEw9fYnEY0-3U3-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
